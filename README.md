@@ -8,7 +8,9 @@
 
 القوائم • الحوارات • الوثائق • الخرائط • اللافتات • الأجهزة • وصف الأصوات
 
-[**⬇ حمّل التعريب من هنا**](https://github.com/AbudiHadi/silent-hill-townfall-arabic/releases/latest)
+### [⬇ حمّل المثبّت (18 ميجابايت)](https://github.com/AbudiHadi/silent-hill-townfall-arabic/raw/main/download/SilentHillTownfall-Arabic-Installer-v1.0.0.exe)
+
+<sub>أو [النسخة اليدوية](https://github.com/AbudiHadi/silent-hill-townfall-arabic/raw/main/download/SilentHillTownfall-Arabic-Manual.zip) إن كنت تفضّل نسخ الملف بنفسك</sub>
 
 </div>
 
@@ -34,7 +36,7 @@
 | | |
 |---|---|
 | اللعبة | SILENT HILL: Townfall على Steam (نسخة الكمبيوتر) |
-| المساحة | حوالي 240 ميجابايت إضافية |
+| المساحة | حوالي 55 ميجابايت إضافية |
 | برامج | لا شيء — المثبّت يعمل مباشرة على ويندوز 10 و 11 |
 
 ---
@@ -43,21 +45,13 @@
 
 ### 1) حمّل المثبّت
 
-اذهب إلى صفحة التحميل:
+اضغط على الرابط التالي وسيبدأ التحميل مباشرة (حجمه 18 ميجابايت):
 
 <div align="center">
 
-### [⬇ صفحة التحميل — Releases](https://github.com/AbudiHadi/silent-hill-townfall-arabic/releases/latest)
+### [⬇ SilentHillTownfall-Arabic-Installer-v1.0.0.exe](https://github.com/AbudiHadi/silent-hill-townfall-arabic/raw/main/download/SilentHillTownfall-Arabic-Installer-v1.0.0.exe)
 
 </div>
-
-ستجد هناك ملفًا اسمه:
-
-```
-SilentHillTownfall-Arabic-Installer-v1.0.0.exe
-```
-
-اضغط عليه لتحميله.
 
 > **ملاحظة:** قد يحذّرك ويندوز أو المتصفح لأن الملف غير موقّع رقميًا (التوقيع
 > الرقمي يكلّف مالًا سنويًا). هذا طبيعي في التعريبات. إن ظهرت نافذة
@@ -105,12 +99,13 @@ SilentHillTownfall-Arabic-Installer-v1.0.0.exe
 
 ### 1) حمّل الملف اليدوي
 
-من [صفحة التحميل](https://github.com/AbudiHadi/silent-hill-townfall-arabic/releases/latest)
-حمّل الملف المضغوط:
+حمّل الملف المضغوط (18 ميجابايت):
 
-```
-SilentHillTownfall-Arabic-Manual.zip
-```
+<div align="center">
+
+### [⬇ SilentHillTownfall-Arabic-Manual.zip](https://github.com/AbudiHadi/silent-hill-townfall-arabic/raw/main/download/SilentHillTownfall-Arabic-Manual.zip)
+
+</div>
 
 وفك الضغط عنه. ستجد بداخله ملفًا اسمه `pakchunk1-Windows.pak`.
 
@@ -142,7 +137,7 @@ pakchunk1-Windows.pak
 الصق ملف `pakchunk1-Windows.pak` الذي حمّلته داخل مجلد `Paks`،
 واختر **استبدال / Replace** عندما يسألك ويندوز.
 
-الملف الجديد حجمه حوالي 240 ميجابايت.
+الملف الجديد حجمه حوالي 55 ميجابايت.
 
 > **مهم جدًا:** يجب أن يكون اسم الملف **بالضبط** `pakchunk1-Windows.pak`.
 > لا تضع الملف باسم آخر بجانب الملف الأصلي — اللعبة **ستتجاهله تمامًا**
