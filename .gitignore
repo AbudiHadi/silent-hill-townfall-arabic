@@ -1,0 +1,5 @@
+# Release binaries live on the Releases page, not in the repo
+# (GitHub rejects files over 100 MB; the installer is ~109 MB)
+*.exe
+*.pak
+*.zip
