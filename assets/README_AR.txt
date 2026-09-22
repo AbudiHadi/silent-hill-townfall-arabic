@@ -7,7 +7,7 @@
 
 1) أغلق اللعبة.
 2) شغّل ملف:
-   SilentHillTownfall-Arabic-Installer-v1.0.0.exe
+   SilentHillTownfall-Arabic-Installer.exe
 3) سيجد المثبّت اللعبة تلقائيا عبر Steam.
    إن لم يجدها، اضغط «استعراض» واختر مجلد اللعبة يدويا.
 4) اضغط «تثبيت التعريب».
@@ -33,6 +33,22 @@
 افتح المثبّت واضغط «استعادة الأصل».
 أو من Steam: خصائص اللعبة ← الملفات المثبتة
              ← التحقق من سلامة ملفات اللعبة.
+
+=============================================
+     روابط التحميل الدائمة
+=============================================
+
+المثبّت:
+https://github.com/AbudiHadi/silent-hill-townfall-arabic/releases/latest/download/SilentHillTownfall-Arabic-Installer.exe
+
+النسخة اليدوية:
+https://github.com/AbudiHadi/silent-hill-townfall-arabic/releases/latest/download/SilentHillTownfall-Arabic-Manual-latest.zip
+
+الصفحة الرئيسية:
+https://github.com/AbudiHadi/silent-hill-townfall-arabic
+
+ملاحظة: المثبّت غير موقّع رقميا، لذلك قد يعرض ويندوز رسالة
+"Windows protected your PC". اضغط More info ثم Run anyway.
 
 =============================================
      تواصل معي
