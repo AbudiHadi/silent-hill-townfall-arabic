@@ -8,7 +8,7 @@
 
 القوائم • الحوارات • الوثائق • الخرائط • اللافتات • الأجهزة • وصف الأصوات
 
-### [⬇ حمّل المثبّت (18 ميجابايت)](https://github.com/AbudiHadi/silent-hill-townfall-arabic/raw/main/download/SilentHillTownfall-Arabic-Installer.exe)
+### [⬇ حمّل المثبّت (19 ميجابايت)](https://github.com/AbudiHadi/silent-hill-townfall-arabic/raw/main/download/SilentHillTownfall-Arabic-Installer.exe)
 
 <sub>أو [النسخة اليدوية](https://github.com/AbudiHadi/silent-hill-townfall-arabic/raw/main/download/SilentHillTownfall-Arabic-Manual.zip) إن كنت تفضّل نسخ الملف بنفسك</sub>
 
@@ -38,7 +38,7 @@
 | | |
 |---|---|
 | اللعبة | SILENT HILL: Townfall على Steam (نسخة الكمبيوتر) |
-| المساحة | حوالي 55 ميجابايت إضافية |
+| المساحة | حوالي 56 ميجابايت إضافية |
 | برامج | لا شيء — المثبّت يعمل مباشرة على ويندوز 10 و 11 |
 
 ---
@@ -47,7 +47,7 @@
 
 ### 1) حمّل المثبّت
 
-اضغط على الرابط التالي وسيبدأ التحميل مباشرة (حجمه 18 ميجابايت):
+اضغط على الرابط التالي وسيبدأ التحميل مباشرة (حجمه 19 ميجابايت):
 
 <div align="center">
 
@@ -101,7 +101,7 @@
 
 ### 1) حمّل الملف اليدوي
 
-حمّل الملف المضغوط (18 ميجابايت):
+حمّل الملف المضغوط (19 ميجابايت):
 
 <div align="center">
 
@@ -139,7 +139,7 @@ pakchunk1-Windows.pak
 الصق ملف `pakchunk1-Windows.pak` الذي حمّلته داخل مجلد `Paks`،
 واختر **استبدال / Replace** عندما يسألك ويندوز.
 
-الملف الجديد حجمه حوالي 55 ميجابايت.
+الملف الجديد حجمه حوالي 56 ميجابايت.
 
 > **مهم جدًا:** يجب أن يكون اسم الملف **بالضبط** `pakchunk1-Windows.pak`.
 > لا تضع الملف باسم آخر بجانب الملف الأصلي — اللعبة **ستتجاهله تمامًا**
