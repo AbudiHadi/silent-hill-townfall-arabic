@@ -12,6 +12,8 @@
 
 <sub>أو [النسخة اليدوية](https://github.com/AbudiHadi/silent-hill-townfall-arabic/raw/main/download/SilentHillTownfall-Arabic-Manual.zip) إن كنت تفضّل نسخ الملف بنفسك</sub>
 
+<sub>كل الإصدارات: [صفحة Releases](https://github.com/AbudiHadi/silent-hill-townfall-arabic/releases/latest)</sub>
+
 </div>
 
 ---
