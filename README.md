@@ -8,7 +8,7 @@
 
 القوائم • الحوارات • الوثائق • الخرائط • اللافتات • الأجهزة • وصف الأصوات
 
-### [⬇ حمّل المثبّت (18 ميجابايت)](https://github.com/AbudiHadi/silent-hill-townfall-arabic/raw/main/download/SilentHillTownfall-Arabic-Installer-v1.0.0.exe)
+### [⬇ حمّل المثبّت (18 ميجابايت)](https://github.com/AbudiHadi/silent-hill-townfall-arabic/raw/main/download/SilentHillTownfall-Arabic-Installer-v1.0.1.exe)
 
 <sub>أو [النسخة اليدوية](https://github.com/AbudiHadi/silent-hill-townfall-arabic/raw/main/download/SilentHillTownfall-Arabic-Manual.zip) إن كنت تفضّل نسخ الملف بنفسك</sub>
 
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-### [⬇ SilentHillTownfall-Arabic-Installer-v1.0.0.exe](https://github.com/AbudiHadi/silent-hill-townfall-arabic/raw/main/download/SilentHillTownfall-Arabic-Installer-v1.0.0.exe)
+### [⬇ SilentHillTownfall-Arabic-Installer-v1.0.1.exe](https://github.com/AbudiHadi/silent-hill-townfall-arabic/raw/main/download/SilentHillTownfall-Arabic-Installer-v1.0.1.exe)
 
 </div>
 
