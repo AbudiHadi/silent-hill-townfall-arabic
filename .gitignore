@@ -1,2 +1,2 @@
-# nothing to ignore - the download/ folder intentionally holds the released
-# installer and the manual package (both small enough for the repo)
+# nothing to ignore - download/ intentionally holds the released manual
+# package (small enough for the repo)
