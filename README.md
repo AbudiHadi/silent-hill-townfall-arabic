@@ -8,13 +8,19 @@
 
 القوائم • الحوارات • الوثائق • الخرائط • اللافتات • الأجهزة • وصف الأصوات
 
-### [⬇ حمّل التعريب — النسخة اليدوية (17 ميجابايت)](https://github.com/AbudiHadi/silent-hill-townfall-arabic/raw/main/download/SilentHillTownfall-Arabic-Manual.zip)
+### [⬇ حمّل التعريب — النسخة اليدوية (18 ميجابايت)](https://github.com/AbudiHadi/silent-hill-townfall-arabic/raw/main/download/SilentHillTownfall-Arabic-Manual.zip)
 
-<sub>الإصدار 1.0.4 • كل الإصدارات: [صفحة Releases](https://github.com/AbudiHadi/silent-hill-townfall-arabic/releases/latest)</sub>
+<sub>الإصدار 1.0.5 • كل الإصدارات: [صفحة Releases](https://github.com/AbudiHadi/silent-hill-townfall-arabic/releases/latest)</sub>
 
 </div>
 
 ---
+
+## ما الجديد في 1.0.5
+
+- **إصلاح طابعة الفصل السادس.** الطابعة عند لوحة كاميرات المراقبة كانت تطبع
+  الأرقام والحرف B فقط، وتترك مكان الكلمات العربية فارغًا. خط الطابعة لم يكن
+  يحتوي على الحروف العربية، والآن يحتويها وتظهر الرسائل كاملة.
 
 ## ما الجديد في 1.0.4
 
@@ -48,7 +54,7 @@
 | | |
 |---|---|
 | اللعبة | SILENT HILL: Townfall على Steam (نسخة الكمبيوتر) |
-| المساحة | حوالي 55 ميجابايت إضافية |
+| المساحة | حوالي 57 ميجابايت إضافية |
 | برامج | لا شيء — تنسخ ملفًا واحدًا فقط |
 
 ---
@@ -61,7 +67,7 @@
 
 ### 1) حمّل الملف اليدوي
 
-حمّل الملف المضغوط (17 ميجابايت):
+حمّل الملف المضغوط (18 ميجابايت):
 
 <div align="center">
 
@@ -99,7 +105,7 @@ pakchunk1-Windows.pak
 الصق ملف `pakchunk1-Windows.pak` الذي حمّلته داخل مجلد `Paks`،
 واختر **استبدال / Replace** عندما يسألك ويندوز.
 
-الملف الجديد حجمه حوالي 55 ميجابايت.
+الملف الجديد حجمه حوالي 57 ميجابايت.
 
 > **مهم جدًا:** يجب أن يكون اسم الملف **بالضبط** `pakchunk1-Windows.pak`.
 > لا تضع الملف باسم آخر بجانب الملف الأصلي — اللعبة **ستتجاهله تمامًا**
